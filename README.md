@@ -1,4 +1,4 @@
-# Data and Code for "Bots Shield Fake News: Adversarial Attack on User Engagement based Fake News Detection"
+# Bots Shield Fake News: Adversarial Attack on User Engagement based Fake News Detection CIKM2024
 
 ## Device
 We conduct all experiments on a server running Ubuntu 20.04 with an NVIDIA RTX 3090 GPU. 
