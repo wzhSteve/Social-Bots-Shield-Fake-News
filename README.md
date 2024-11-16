@@ -47,3 +47,14 @@ python -u attack_method/test_qsa_ac.py --dataset [dataset_name] --subset [subset
 
 
 We provide detailed commands in `attack.sh` and the checkpoint for all surrogate models and victim models in the folder `attack_method/results/`.
+## Cite us
+
+```
+@inproceedings{wang2024bots,
+  title={Bots Shield Fake News: Adversarial Attack on User Engagement based Fake News Detection},
+  author={Wang, Lanjun and Wang, Zehao and Wu, Le and Liu, An-An},
+  booktitle={Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+  pages={2369--2378},
+  year={2024}
+}
+```
